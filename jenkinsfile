@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Clone the GitHub repository
-                git url: 'https://github.com/yudfgh/shanu.git', branch: 'master'
+                git url: 'https://github.com/yudfgh/shanu.git', branch: 'main'
             }
         }
         stage('Build Docker Image') {
