@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "prakharm1234/shanu-app" // Replace with your Docker Hub repository name
+        DOCKER_IMAGE = "<>/test-app" // Replace with your Docker Hub repository name
         TAG = "${BUILD_NUMBER}" // Image tag, can use versioning if needed
     }
 
