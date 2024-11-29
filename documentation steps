@@ -74,7 +74,7 @@ docker run -p 8080:8080 --env-file .env <image-name>:<tag>
 Verify the Application:
 
 Open http://localhost:8080 in your browser.
-################3. Trigger the CI/CD Pipeline
+################3. Trigger the CI/CD Pipeline (github webhook trigger the pipeline to jenkins when code changes detected in main branch.)
 Commit Changes to the Repository:
 
 bash
