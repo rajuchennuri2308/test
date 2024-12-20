@@ -12,7 +12,7 @@
 10-- Configure Environment Variables:
 
 11-- Create an application.properties file under src/main/resources/ or a .env file.
-12-- Add database and application configurations, e.g.:
+12-- Add database and application configurations, e.g.:  ###
 properties
 Copy code
 server.port=8080
