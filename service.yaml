@@ -11,4 +11,4 @@ spec:
       targetPort: 8001    # Container port
       nodePort: 30007     # Node port (only for NodePort type)
   selector:
-    app: test-app
+    app: test-ap
