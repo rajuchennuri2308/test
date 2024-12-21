@@ -37,7 +37,7 @@ Copy code
 mvn spring-boot:run
 Using Gradle:
 bash
-Copy code
+Copy code ::
 ./gradlew bootRun
 Directly from the built JAR:
 bash
