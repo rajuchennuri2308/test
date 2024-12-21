@@ -21,7 +21,7 @@ spring.datasource.username=root
 spring.datasource.password=secret
 Build the Application:
 
-If using Maven:
+If using Maven: :
 bash
 Copy code
 mvn clean install
