@@ -1,7 +1,7 @@
 ##############1. Set Up and Run the Application Locally
 1-- Install Required Tools:
 
-2-- Install Java Development Kit (JDK) (e.g., OpenJDK 11 or 17).
+2--- Install Java Development Kit (JDK) (e.g., OpenJDK 11 or 17).
 3-- Install Apache Maven or Gradle.
 4-- Set up a database like MySQL/PostgreSQL if your application requires one.
 5-- Clone the Repository:
